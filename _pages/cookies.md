@@ -1,6 +1,7 @@
 ---
-title: "Cookies"
-date: "2016-08-26"
+layout: page
+permalink: /cookies
+title: Cookies
 ---
 
 La presente política de cookies tiene por finalidad informarle de manera clara y precisa sobre las cookies que se utilizan en la página web de Lanalua.

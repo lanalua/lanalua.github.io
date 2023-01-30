@@ -1,6 +1,7 @@
 ---
-title: "Maialen Muñoa"
-date: "2017-05-15"
+layout: page
+permalink: /mmunoa
+title: Maialen Muñoa
 ---
 
 ![](images/profile_m-300x300.jpg)**Periodista** con experiencia en comunicación, creación de contenidos, redacción de notas de prensa, gestión de redes sociales y blogs. Durante los últimos años he gestionado la comunicación y los perfiles digitales de diversas empresas y marcas.

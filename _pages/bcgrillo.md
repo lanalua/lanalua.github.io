@@ -1,6 +1,7 @@
 ---
-title: "Bruno Camilo Grillo"
-date: "2016-08-21"
+layout: page
+permalink: /bcgrillo
+title: Bruno Camilo Grillo
 ---
 
 ![Bruno Camilo Grillo](images/Foto_Perfil_C-2-300x300.jpg)**Ingeniero de Software** con experiencia en programación, análisis, diseño, gestión de proyectos, dirección de equipos de desarrollo y de equipos de soporte. He tenido la oportunidad de ejercer la mayoría de los roles relacionados con el desarrollo y el mantenimiento de aplicaciones Web y de escritorio. Actualmente trabajo como gestor de proyectos software, además, en los últimos años he podido trabajar en la mejora de los procesos de desarrollo en distintos equipos, con especial énfasis en la mejora de la calidad y en la entrega continua.
