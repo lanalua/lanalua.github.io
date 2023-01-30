@@ -27,7 +27,7 @@ Los dominios entrantes son el número de dominios en los que al menos hay un enl
 
  
 
-![Link Building](images/LinkBuilding.png)
+![Link Building](/images/LinkBuilding.png)
 
  
 

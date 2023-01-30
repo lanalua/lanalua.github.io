@@ -14,7 +14,7 @@ A estas alturas, nadie pone en duda que vivimos en un mundo que corre a la veloc
 
  
 
-![agencia de comunicacion digital madrid](images/agencia-de-comunicacion-digital-madrid-lanalua.jpg)
+![agencia de comunicacion digital madrid](/images/agencia-de-comunicacion-digital-madrid-lanalua.jpg)
 
  
 

@@ -23,7 +23,7 @@ Hoy nos encontramos con metodologías que se han perfeccionado mucho en las últ
 
  
 
-![](images/DesarrolloWebAgil-1.png)
+![](/images/DesarrolloWebAgil-1.png)
 
  
 

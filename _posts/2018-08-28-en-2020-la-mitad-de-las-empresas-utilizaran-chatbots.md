@@ -16,7 +16,7 @@ A todos nos ha atendido alguna vez una grabación telefónica y hemos repetido a
 
 Utilizan un leguaje natural, reconocen nuestras preguntas, incluso pueden hacer bromas. Los ChatBots son sistemas capaces de responder a nuestros mensajes escritos sin la ayuda de un operador humano, y cada vez lo hacen mejor. Un [estudio de la consultora Gartner](https://www.gartner.com/smarterwithgartner/chatbots-will-appeal-to-modern-workers/) prevé que en 2020 el 50% de las medianas y grandes empresas habrán implementado sistemas de chat automatizados.
 
-![](images/chatbot-3589528_1920.jpg)
+![](/images/chatbot-3589528_1920.jpg)
 
  
 
@@ -35,7 +35,7 @@ El avance de las tecnologías de inteligencia artificial y [aprendizaje automát
 
  
 
-![](images/Screenshot_2018-08-28-QnA-Maker.png)
+![](/images/Screenshot_2018-08-28-QnA-Maker.png)
 
 ### Ya está a nuestro alcance
 

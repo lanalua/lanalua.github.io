@@ -30,7 +30,7 @@ No se puede hablar del éxito o fracaso de un miembro del equipo. El éxito del 
 
 En desarrollo ágil la unidad del equipo es algo tan importante que da origen al nombre de la metodología [**Scrum**](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)), que procede de esa [formación en rugby](https://es.wikipedia.org/wiki/Scrum_(rugby)) donde los jugadores avanzan unidos.
 
-\[caption id="" align="aligncenter" width="1598"\][![Scrum](images/Scrum-1.JPG)](https://commons.wikimedia.org/wiki/File:Scrum-1.JPG) Scrum - Por Maree Reveley ([CC](http://creativecommons.org/licenses/by-sa/2.5))\[/caption\]
+\[caption id="" align="aligncenter" width="1598"\][![Scrum](/images/Scrum-1.JPG)](https://commons.wikimedia.org/wiki/File:Scrum-1.JPG) Scrum - Por Maree Reveley ([CC](http://creativecommons.org/licenses/by-sa/2.5))\[/caption\]
 
  
 

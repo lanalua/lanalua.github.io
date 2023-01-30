@@ -15,7 +15,7 @@ En [Lanalua](https://lanalua.com) hemos querido plantear este dilema: Si solo pu
 
  
 
-![Aplicaciones Imprescindibles](images/Ranking-Aplicaciones-Imprescindibles.png)
+![Aplicaciones Imprescindibles](/images/Ranking-Aplicaciones-Imprescindibles.png)
 
  
 
@@ -31,7 +31,7 @@ _**"Todos tus archivos estés donde estés"**_
 
 Pero Google Drive es [mucho más](https://www.google.com/intl/es_ALL/drive/using-drive/) que un almacenamiento en la nube. ¿Sabías que también es un escáner de bolsillo? Solo tienes que añadir una foto del documento a través de la aplicación de Android y se guardará como PDF. Y lo más increíble, si buscas un texto que aparece en la imagen, Google Drive lo encontrará. Igualmente las búsquedas reconocerán objetos en las fotos, por algo Google es el rey de las búsquedas.
 
-![Escáner de bolsillo](images/Captura-Google-Drive-1-e1511987063785.jpg) Escáner de documentos, Google Drive para Android
+![Escáner de bolsillo](/images/Captura-Google-Drive-1-e1511987063785.jpg) Escáner de documentos, Google Drive para Android
 
  
 
@@ -50,7 +50,7 @@ Además, el navegador del zorro de fuego cuenta con varias funciones adicionales
 
 Firefox cuenta, también, con la posibilidad de ampliar su funcionalidad mediante extensiones. Y si algo nos ha hecho decantarnos por incluirlo en esta lista es una extensión que nos gusta muchísimo, los "[contenedores multi-cuenta](https://addons.mozilla.org/es/firefox/addon/multi-account-containers/)". Con ellos ya no tienes que estar cerrando y abriendo sesión, por ejemplo, para cambiar entre tu cuentas de Gmail, de Twitter o lo que sea. Si abres una pestaña de un contenedor determinado, tus sesiones estarán como las habías dejado en ese contenedor. Y puedes tener pestañas de contenedores diferentes en una misma ventana, identificadas con distintos colores.
 
-![Firefox Multicuenta](images/FF-Multicuenta-470x265.png) Con esta extensión de Firefox cada pestaña puede pertenecer a un contenedor distinto
+![Firefox Multicuenta](/images/FF-Multicuenta-470x265.png) Con esta extensión de Firefox cada pestaña puede pertenecer a un contenedor distinto
 
  
 
@@ -69,7 +69,7 @@ Además, Trello es una aplicación que cuida mucho los detalles. Por ejemplo:
 
 Trello también cuenta con un montón de "[Power-Ups](https://trello.com/power-ups)" que añaden funcionalidad a tu tablero, de los cuales nos gustaría destacar uno realmente útil: el "[envejecimiento de la tarjeta](https://info.trello.com/power-ups/card-aging)". Cuando activas este "Power-Up", las tarjetas de tu tablero se irán haciendo más transparentes a medida que no las mueves ni las modificas. En cuanto vuelves a trabajar con ellas, vuelven a recobrar su estado inicial. Esto permite identificar rápidamente aquellas tareas que están atascadas. Esta función también permite activar un "modo pirata", que hace que las tarjetas antiguas se parezcan a un papel viejo.
 
-![Trello](images/Trello-Colores.png) Pestañas de Trello con Power-Up de efecto de envejecimiento
+![Trello](/images/Trello-Colores.png) Pestañas de Trello con Power-Up de efecto de envejecimiento
 
  
 

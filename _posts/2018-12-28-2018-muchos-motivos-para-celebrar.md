@@ -6,7 +6,7 @@ categories:
 coverImage: "clippings-portada-1.jpg"
 ---
 
-![](images/clippings-portada-1.jpg)
+![](/images/clippings-portada-1.jpg)
 
 Una vez más toca hacer balance de todo lo vivido en este último año. El **2018** ha sido frenético para [**Lanalua**](https://lanalua.com/#home). A lo profesional se nos ha juntado vivir una de las experiencias más increíbles de la vida: la paternidad. Gracias al apoyo de nuestros clientes y a nuestra constancia hemos conseguido alcanzar todos los objetivos propuestos.
 
@@ -22,23 +22,23 @@ Vogue, Mujer Hoy, Harper's Bazaar, revista Novias, Hola, Mía, 20 Minutos, El Es
 
  
 
-\[one\_half\]![](images/clipping-1.jpg)\[/one\_half\]\[one\_half\_last\]![](images/clipping-2.jpg)\[/one\_half\_last\]
+\[one\_half\]![](/images/clipping-1.jpg)\[/one\_half\]\[one\_half\_last\]![](/images/clipping-2.jpg)\[/one\_half\_last\]
 
  
 
-![](images/clipping-3.jpg)
+![](/images/clipping-3.jpg)
 
  
 
-![](images/clipping-4.jpg)
+![](/images/clipping-4.jpg)
 
  
 
-\[one\_half\]![](images/clipping-5.jpg)\[/one\_half\]\[one\_half\_last\]![](images/clipping-5-2.jpg)\[/one\_half\_last\]
+\[one\_half\]![](/images/clipping-5.jpg)\[/one\_half\]\[one\_half\_last\]![](/images/clipping-5-2.jpg)\[/one\_half\_last\]
 
  
 
-![](images/clipping-6.jpg)
+![](/images/clipping-6.jpg)
 
  
 

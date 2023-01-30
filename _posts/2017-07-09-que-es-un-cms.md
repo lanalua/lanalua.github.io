@@ -18,7 +18,7 @@ Algunos de los CMS más populares son [WordPress](https://es.wordpress.org/), [J
 
  
 
-![](images/infografia.png)
+![](/images/infografia.png)
 
  
 
@@ -35,7 +35,7 @@ Además de ofrecer un interfaz para la gestión del contenido, éstas son las pr
 
  
 
-![](images/Opciones.png)
+![](/images/Opciones.png)
 
  
 

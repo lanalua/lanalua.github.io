@@ -33,7 +33,7 @@ Además de [PhoneGap](https://build.phonegap.com/), la versión "comercial" que 
 
 Al ser mi primer desarrollo móvil, y disponer de tan poco tiempo para cumplir mi objetivo, lo primero que agradecí fue poder trabajar con [Visual Studio](https://www.visualstudio.com/es/vs/cordova/), crear el proyecto y encontrarme con una estructura tan familiar como ésta:
 
-![Cordova](images/Cordova.png)
+![Cordova](/images/Cordova.png)
 
 Lo segundo que agradecí fue poder depurar en mi navegador. Al ser una aplicación íntegramente HTML+CSS+JS, he podido ejecutarla casi todo el tiempo en mi navegador, con todas las ventajas que esto supone, para la depuración, afinar los estilos, etc. Claro que en ese escenario no tienes el soporte a cualquier evento o características de los dispositivos móviles, pero para el 95% del tiempo de desarrollo y pruebas, me ha servido perfectamente.
 
@@ -71,4 +71,4 @@ Quería aprovechar este primer desarrollo para hacer un pequeño homenaje a unos
 
 En las próximas semanas quiero hacer una versión light y comentada del código para compartila con vosotros. De momento, os dejo un enlace por si queréis echar un vistazo:
 
-[![play](images/play.png)](https://play.google.com/store/apps/details?id=com.lanalua.findingSusieCE)**¡Felices fiestas!**
+[![play](/images/play.png)](https://play.google.com/store/apps/details?id=com.lanalua.findingSusieCE)**¡Felices fiestas!**

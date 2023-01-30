@@ -8,7 +8,7 @@ tags:
 coverImage: "Captura-2.png"
 ---
 
-![](images/Captura-2.png)
+![](/images/Captura-2.png)
 
 Aunque DevOps como "movimiento" empezó hace muchos años (2007 o 2008, suena ya muy antiguo), son muchos los equipos que a día de hoy, por una razón o por otra, todavía no han dado ese paso. Es algo totalmente normal, al fin de cuentas DevOps es un componente cultural que hay que adquirir con la experiencia, nadie nace con él. Mientras se sigan formando nuevos profesionales, nuevos equipos, nuevos proyectos de desarrollo, seguirá siendo un hito de madurez a ser alcanzado, siempre habrá algún equipo empezando a hacer DevOps.
 
@@ -22,7 +22,7 @@ DevOps, en pocas palabras, es _Agile_. Se podría decir que DevOps es un conjunt
 
 Si un equipo ágil es capaz de desarrollar código con calidad y entregar funcionalidad con mucha frecuencia, DevOps será lo que les ayude a eliminar esa barrera traumática que significa "subir a producción". Y ahora es cuando muchos ponen la mano en la cabeza... Tranquilos, sabemos lo que hacemos.
 
-![](images/tumblr_o0i4qgcmTc1r83ei3o1_500.gif)
+![](/images/tumblr_o0i4qgcmTc1r83ei3o1_500.gif)
 
 ### Todos tocan producción, nadie toca producción
 

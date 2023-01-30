@@ -4,7 +4,7 @@ permalink: /mmunoa
 title: Maialen Muñoa
 ---
 
-![](images/profile_m-300x300.jpg)**Periodista** con experiencia en comunicación, creación de contenidos, redacción de notas de prensa, gestión de redes sociales y blogs. Durante los últimos años he gestionado la comunicación y los perfiles digitales de diversas empresas y marcas.
+![](/images/profile_m-300x300.jpg)**Periodista** con experiencia en comunicación, creación de contenidos, redacción de notas de prensa, gestión de redes sociales y blogs. Durante los últimos años he gestionado la comunicación y los perfiles digitales de diversas empresas y marcas.
 
 Lo de comunicar me viene desde niña. **Aprendí a hablar antes que a andar**. Después me vino lo de escribir. Mi primera crónica la hice con 9 años y fue sobre la película 'Titanic'. Al salir del cine redacté un resumen para mis abuelos. Ellos siempre me decían que el texto les hacía sentir que ya habían visto la película antes de sentarse en las butacas del cine. Después de esa crónica vinieron otras más, algunos cuentos y muchos resúmenes de artículos de revistas para adolescentes. Fue por aquel entonces cuando tuve claro que quería ser periodista y puse todo mi empeño para conseguirlo.
 

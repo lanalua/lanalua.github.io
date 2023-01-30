@@ -6,7 +6,7 @@ categories:
 coverImage: "hiring-2575036_960_720.jpg"
 ---
 
-![](images/Sin-título-1.jpg)
+![](/images/Sin-título-1.jpg)
 
  
 

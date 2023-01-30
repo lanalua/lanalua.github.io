@@ -22,7 +22,7 @@ En pleno siglo de la Ilustración llegó desde Gran Bretaña esa influencia de l
 
  
 
-![Carmen de Burgos periodista](images/Carmen-de-Pablo-705x1024.jpg) Carmen de Burgos fue la primera periodista profesional y la primera corresponsal de guerra de la historia de España
+![Carmen de Burgos periodista](/images/Carmen-de-Pablo-705x1024.jpg) Carmen de Burgos fue la primera periodista profesional y la primera corresponsal de guerra de la historia de España
 
 #### Carmen de Burgos, la primera periodista profesional
 

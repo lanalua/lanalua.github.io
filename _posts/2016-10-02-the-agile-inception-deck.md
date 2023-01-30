@@ -20,11 +20,11 @@ Empieza con optimismo. A medida que empieza tu proyecto, tú y tu equipo estáis
 
 ¿Cuántos de tus proyectos empiezan así? Tú y tu equipo os reunís al inicio del proyecto pensando que estáis todos en sintonía...
 
-![inception_00](images/inception_00.png)
+![inception_00](/images/inception_00.png)
 
 ...y cuando empezáis a construir algo, te das cuenta de que estabais pensando en algo totalmente diferente.
 
-![inception_01](images/inception_01.png)
+![inception_01](/images/inception_01.png)
 
 Esto ocurre todo el tiempo en los proyectos: suponer que hay consenso cuando en realidad no es así.
 
@@ -32,7 +32,7 @@ Mientras los buenos equipos pueden empezar con estos problemas y adaptarse a med
 
 Para cortar este problema de raíz, cuando estaba en _ThoughtWorks,_ creamos una herramienta ligera para el arranque de proyectos llamada "_The Agile Inception Deck_: 10 preguntas y ejercicios que sería una locura no llevar a cabo antes de empezar tu proyecto".
 
-![inception_02](images/inception_02.png)
+![inception_02](/images/inception_02.png)
 
 Estas preguntas tienen dos objetivos: el alineamiento y el ajuste de las expectativas.
 
@@ -54,7 +54,7 @@ No se puede construir un gran producto si en primer lugar no sabes por qué lo e
 
 Por ejemplo, digamos que fuisteis contratados por una empresa de construcción para crear un sistema en línea para el mapeo de carreteras que fueron cerradas temporalmente en una obra determinada.
 
-![inception_03](images/inception_03.png)
+![inception_03](/images/inception_03.png)
 
 Una pregunta obvia que os ayudaría a ti y al equipo a construir la solución es "¿por qué?": ¿Por qué la empresa está gastando el capital de los accionistas en este proyecto en primer lugar?
 
@@ -68,7 +68,7 @@ Conocer y entender el requisito principal detrás del proyecto te dará la vi
 
 Los proyectos pueden ser muchas cosas para mucha gente. Este ejercicio trata de hacer que no sea así.
 
-![inception_04](images/inception_04.png)
+![inception_04](/images/inception_04.png)
 
 Un buen _elavator pitch_ (discurso de ascensor) cuenta a los demás qué es el producto, para quien es, por qué es especial aproximadamente en el tiempo que dura un viaje en ascensor.
 
@@ -80,7 +80,7 @@ Crear uno bueno puede ser más difícil de lo que imaginas. Sin embargo, una ve
 
 Reflexionar sobre el producto desde la perspectiva del cliente siempre es interesante. La construcción de una _product box_ no solo te pondrá en la cabeza de tu cliente, es un gran ejercicio para la formación de equipos, a medida que das permiso para dibujar y colorear en el trabajo.
 
-![inception_05](images/inception_05.png)
+![inception_05](/images/inception_05.png)
 
 No tienes que conseguir algo muy elaborado ni complejo. Simplemente pregúntate:
 
@@ -93,7 +93,7 @@ No tienes que conseguir algo muy elaborado ni complejo. Simplemente pregúntate:
 
 Decir que sí es fácil. Lo difícil es decir no. La _NOT List_ empieza a poner marcas en el terreno para establecer las expectativas sobre lo que no va a ser parte de este proyecto.
 
-![inception_06](images/inception_06.png)
+![inception_06](/images/inception_06.png)
 
 Decir lo que no se va a hacer es muy efectivo. Elimina de antemano una gran cantidad de desperdicios al permitir que el equipo se centre en aquello que está claramente _IN scope_ (dentro del alcance), ignorando aquello que está _OUT_. A partir de la columna _IN_ fluirán todas tus historias de usuario de alto nivel.
 
@@ -107,7 +107,7 @@ Este ejercicio realmente define las "grandes piedras" del alcance. Lo que estás
 
 Una vez casi pierdo un proyecto porque no me había dado cuenta de que la comunidad en torno a un proyecto es siempre más grande de lo que piensas. Es fácil creer que todo gira en torno a ti y al núcleo de tu equipo, pero la realidad es que la mayoría de los proyectos requieren más que solamente la gente del día a día para ser un éxito (sobre todo en las grandes empresas).
 
-![inception_07](images/inception_07.png)
+![inception_07](/images/inception_07.png)
 
 Este ejercicio trata de conseguir que tú y tu equipo penséis de antemano a quien vais a necesitar conocer y que establezcáis relaciones con ellos antes de empezar. Esto no es solamente por cortesía, les permitirá prepararse para tu llegada y estar ahí para cuando les necesites.
 
@@ -117,7 +117,7 @@ Este ejercicio trata de conseguir que tú y tu equipo penséis de antemano a qu
 
 Eliges la arquitectura cuando eliges a tu equipo, así que mejor asegúrate de que todos estáis de acuerdo con la solución antes de empezar.
 
-![inception_08](images/inception_08.png)
+![inception_08](/images/inception_08.png)
 
 Este ejercicio trata de dar a conocer tus cartas. Si estás pensando en resolver este proyecto con un conjunto de herramientas o arquitectura, lo mejor es decirlo cuanto antes. No te gustaría que te pillasen con la guardia baja por culpa de algún estándar corporativo.
 
@@ -129,7 +129,7 @@ También es una oportunidad para aclarar cualquier cosa si no tienes todas las r
 
 Hay miles de cosas que podrían estar mal en nuestros proyectos. Algunas las podremos controlar, otras no. Este ejercicio trata de asegurar que identificamos los riesgos por los que merece la pena preocuparse y los que no.
 
-![inception_09](images/inception_09.png)
+![inception_09](/images/inception_09.png)
 
 Por ejemplo, no se puede hacer mucho para prevenir el colapso de la economía, o que tu cliente sea promovido a vicepresidente de ingeniería. Así que no te preocupes.
 
@@ -143,7 +143,7 @@ Esta es tu oportunidad para desafiar a la locura antes de que el proyecto empie
 
 Este ejercicio trata de responder a la pregunta: ¿cómo de grande es esto? No podemos decir exactamente cuántos días va a durar este proyecto de principio a fin, pero podemos decir si será sobre 3, 6 o 9 meses.
 
-![inception_10](images/inception_10.png)
+![inception_10](/images/inception_10.png)
 
 Para este ejercicio necesitarás planificar y estimar a alto nivel. La _NOT List_ te vendrá bien en este punto. Tendrás que llegar a algunos números de alto nivel para dar a los interesados al menos una idea del tamaño del proyecto y lo que están buscando.
 
@@ -155,7 +155,7 @@ La clave aquí no es la precisión, sino determinar si el proyecto es realmente 
 
 Todos los proyectos tienen palancas como tiempo, dinero, alcance y calidad. Es mejor saber qué es lo más importante, y con cuáles podemos jugar.
 
-![inception_11](images/inception_11.png)
+![inception_11](/images/inception_11.png)
 
 En algunos proyectos lo único que importa es el dinero. En otros, lo más importante es la fecha de entrega.
 
@@ -169,7 +169,7 @@ Otro tema que debes debatir: ¿qué es lo que realmente haría que este proyect
 
 Este ejercicio trata sobre dos cuestiones que ocupan la mente de todos los _stakeholders_: ¿Cuánto tiempo nos va a llevar y cuánto nos va a costar?
 
-![inception_12](images/inception_12.png)
+![inception_12](/images/inception_12.png)
 
 Si se trata de una parte de un proyecto, puede que el presupuesto ya haya sido establecido. En este caso todo lo que necesitas hacer son algunas cuentas en un papel para saber si el proyecto es factible con las cartas que te han dado.
 
@@ -183,7 +183,7 @@ Hacer un _Inception Deck_ para tu proyecto no es magia. Es simplemente cuestió
 
 Puede llevar desde un par de días hasta una o dos semanas en completarse y normalmente es bueno hacerlo durante planificaciones de 3 a 6 meses. Sin embargo, es una valiosa herramienta para establecer las expectativas iniciales de tu proyecto, y para recordar a los demás de qué vas tú y de qué va tu proyecto.
 
-![inception_13](images/inception_13.png)
+![inception_13](/images/inception_13.png)
 
 Así que antes de iniciar tu próximo proyecto ágil, asegúrate de hacer primero las preguntas difíciles y conseguir alinear a todos. Te verás como un profesional y  prepararás tu proyecto para el éxito mucho antes de que se escriba la primera línea de código.
 

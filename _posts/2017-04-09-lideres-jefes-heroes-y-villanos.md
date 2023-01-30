@@ -25,7 +25,7 @@ Si repasamos algunas de las definiciones habituales, obviando las despectivas, v
 
  
 
-![](images/JefeVsLider.png)
+![](/images/JefeVsLider.png)
 
  
 
@@ -41,7 +41,7 @@ Sin embargo, en nuestras series favoritas, cuando un héroe es un héroe de verd
 
  
 
-![](images/HeroesYVillanos-2.png)
+![](/images/HeroesYVillanos-2.png)
 
  
 

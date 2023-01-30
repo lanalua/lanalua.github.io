@@ -23,7 +23,7 @@ La reunión de inicio, o _kickoff_, será sin duda la más importante del proyec
 
 Parece algo antiguo y poco ágil, pero nada más lejos, recordemos lo de: **piensa en grande** y actúa en pequeño. No se puede pensar en grande sin resolver estas cuestiones, por ello Jonathan Rasmusson incluyó en su libro [The Agile Samurai](https://pragprog.com/titles/jtrap/the-agile-samurai) la [Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/), un conjunto de actividades para el inicio del proyecto orientadas a alinear el conocimiento y ajustar las expectativas. En este artículo incluiré algunas de estas actividades.
 
-![Inception Deck](images/InceptionDeck.png)
+![Inception Deck](/images/InceptionDeck.png)
 
  
 

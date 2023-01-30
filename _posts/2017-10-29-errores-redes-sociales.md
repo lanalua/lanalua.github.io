@@ -11,7 +11,7 @@ coverImage: "Errores-Redes-Sociales.png"
 
 "Hay que estar en las redes sociales". Seguro que has oído esta frase millones de veces. Es cierta. Muy cierta. Sin embargo, no debemos confundirla con estar por estar. Con estar por estar me refiero a abrirnos un perfil y no actualizar o hacerlo de malas maneras. Esto no vale, de hecho penaliza. Olvidarse de la red social y abandonarla durante días, meses e incluso años es de lo peor que puedes hacer en este tipo de plataformas. ¿Qué imagen crees que proyectará tu negocio con un perfil social abandonado? Es como si tuvieras un bar vacío o un local mal cuidado.
 
-\[caption id="attachment\_671" align="aligncenter" width="1200"\]![7 errores en redes sociales](images/Errores-Redes-Sociales.png) _¡Cuidado! Lee atentamente estos consejos antes de continuar..._\[/caption\]
+\[caption id="attachment\_671" align="aligncenter" width="1200"\]![7 errores en redes sociales](/images/Errores-Redes-Sociales.png) _¡Cuidado! Lee atentamente estos consejos antes de continuar..._\[/caption\]
 
 Sin embargo, nadie duda del increíble potencial que tienen las redes sociales. Éstas se han convertido en una herramienta muy eficaz para llegar a tus clientes. Un instrumento potentísimo de comunicación que te permite mostrarte cercano a tus clientes.
 
@@ -29,7 +29,7 @@ Investiga también tu competencia y dónde puedes hacer llegar tus mensajes de m
 
  
 
-![No digas - Errores en redes sociales](images/stop-sign-1174658_960_720-e1509299481705.jpg)
+![No digas - Errores en redes sociales](/images/stop-sign-1174658_960_720-e1509299481705.jpg)
 
  
 

@@ -22,7 +22,7 @@ La película '[Figuras Ocultas](http://www.imdb.com/title/tt4846340/)' nos sirve
 
 En este contexto situamos a [Margarey Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_%28scientist%29), la programadora que llevó el Apolo 11 a la Luna en 1969. El código de esta matemática fue imprescindible para que Neil Armstrong y Buzz Aldrin pusieran un pie en la Luna. Hamilton, pionera informática, aprendió a programar por su cuenta para luego convertirse en la directora de la división de ingeniería de software del MIT. Además, cabe destacar que el término “ingeniería del software” es suyo.
 
-[![Margaret Hamilton](images/Margaret_Hamilton.gif)](https://commons.wikimedia.org/wiki/File%3AMargaret_Hamilton.gif) Margaret Hamilton de pie al lado del software de navegación del proyecto Apolo. Por Draper Laboratory, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMargaret_Hamilton.gif)
+[![Margaret Hamilton](/images/Margaret_Hamilton.gif)](https://commons.wikimedia.org/wiki/File%3AMargaret_Hamilton.gif) Margaret Hamilton de pie al lado del software de navegación del proyecto Apolo. Por Draper Laboratory, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMargaret_Hamilton.gif)
 
  
 
@@ -32,7 +32,7 @@ Si echamos un vistazo a la [lista Forbes de las 100 mujeres más poderosas de 20
 
 Sin embargo, las mujeres están infra representadas en una profesión dominada por hombres. Especialmente cuando se refiere a cargos de relevancia o puestos de dirección. Como excepción, [en el año 2015, la CEO más influyente de Silicon Valley](http://www.businessinsider.com/silicon-valley-100-2015-6) fue [Elizabeth Holmes](https://es.wikipedia.org/wiki/Elizabeth_Holmes), fundadora y directora ejecutiva de una importante compañía de servicios en tecnologías de la salud. No obstante, [en 2016 no hubo ninguna mujer en los 10 primeros puestos](http://www.businessinsider.com/silicon-valley-100-2016-6).
 
-[![Elizabeth Holmes](images/Elizabeth_Holmes_2014_%28cropped%29.jpg)](https://commons.wikimedia.org/wiki/File%3AElizabeth_Holmes_2014_(cropped).jpg) Elizabeth Holmes, CEO de Theranos, en el TechCrunch Disrupt San Francisco 2014. Por Max Morse \[[CC BY 2.0](http://creativecommons.org/licenses/by/2.0)\], [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AElizabeth_Holmes_2014_(cropped).jpg)
+[![Elizabeth Holmes](/images/Elizabeth_Holmes_2014_%28cropped%29.jpg)](https://commons.wikimedia.org/wiki/File%3AElizabeth_Holmes_2014_(cropped).jpg) Elizabeth Holmes, CEO de Theranos, en el TechCrunch Disrupt San Francisco 2014. Por Max Morse \[[CC BY 2.0](http://creativecommons.org/licenses/by/2.0)\], [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AElizabeth_Holmes_2014_(cropped).jpg)
 
 Muchas de las pioneras de la programación fueron mujeres. No cabe duda de que sin ellas, la programación y la ingeniería del software, tal y como las conocemos, no existirían. Y que la tecnología no hubiera avanzado de forma tan notable.
 

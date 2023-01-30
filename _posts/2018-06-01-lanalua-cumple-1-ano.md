@@ -6,7 +6,7 @@ categories:
 coverImage: "lanalua-aniversario.jpg"
 ---
 
-![lanalua aniversario](images/lanalua-aniversario.jpg)
+![lanalua aniversario](/images/lanalua-aniversario.jpg)
 
   Nuestro primer aniversario ha llegado sin darnos cuenta. No somos conscientes de lo rápido que pasan los días, las semanas y los meses. Antes de lo esperado, estamos soplando las velas de nuestra primera tarta. **[Nuestro primer año como Lanalua](https://lanalua.com/blog/despegamos)**, un aniversario que ha sido posible gracias a la confianza que nuestros clientes han depositado en nosotros.
 

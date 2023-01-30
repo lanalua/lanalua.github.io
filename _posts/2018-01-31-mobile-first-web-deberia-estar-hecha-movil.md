@@ -14,7 +14,7 @@ Mobile First, o "Los móviles primero", una tendencia que ha llegado para quedar
 
 Todo este cambio en la manera de consumir Internet ha dado como resultado que Google priorice la indexación de páginas web _responsive_, en detrimento de las que no lo son. Es un hecho más que probado, los usuarios escogen el móvil para visitar webs, informarse, comunicarse e incluso, comprar. Una web que no lo tenga en cuenta no merece estar en las primeras posiciones de búsqueda.
 
-![Mobile First](images/google-mobile.jpg)
+![Mobile First](/images/google-mobile.jpg)
 
 #### ¿Qué es Mobile First?
 
@@ -24,7 +24,7 @@ En la actualidad, el 75% de las conexiones a Internet se hacen a través del _sm
 
 Mejorar la usabilidad móvil es un elemento imprescindible para que el usuario tenga una buena experiencia dentro de nuestra web. Si conseguimos mejorar su experiencia de navegación también mejoraremos el posicionamento SEO al reducirse el porcentaje de rebote, satisfaremos al usuario y lo fidelizaremos. Esto se traduce en un incremento de visitas o ventas.
 
-![](images/finger-769300_1920-970x687.jpg)
+![](/images/finger-769300_1920-970x687.jpg)
 
 #### Algunas ideas claves
 

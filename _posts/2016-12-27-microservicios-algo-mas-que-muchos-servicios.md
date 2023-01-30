@@ -42,7 +42,7 @@ Algunas de las características citadas como la facilidad del mantenimiento, la 
 
 La implementación de componentes como servicios nos da más flexibilidad en las entregas, algo que debe ser aprovechado para **facilitar el cambio y lograr un [diseño emergente](https://lanalua.com/blog/tdd-parte-2-arquitectura-evolutiva-y-diseno-emergente)**.
 
-![microservicios](images/microservicios-1.jpg)
+![microservicios](/images/microservicios-1.jpg)
 
 Por otro lado, como bien apunta Ana M. Del Carmen en el blog de Javier Garzás, hay pros y contras, y los microservicios introducen complejidad a la solución. Podéis repasar algunos retos y consejos en su artículo: [¿Qué es eso de los microservicios?](http://www.javiergarzas.com/2015/06/microservicios.html)
 

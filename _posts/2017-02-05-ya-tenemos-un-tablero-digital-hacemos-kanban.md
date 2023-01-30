@@ -28,7 +28,7 @@ Sí. Hay más. Kanban no es solo un tablero. Kanban es a la vez un tablero, las 
 
 Cuando hablamos del método Kanban, hablamos de procesos visuales, de [Lean Manufacturing](https://es.wikipedia.org/wiki/Lean_manufacturing), de la [producción "justo a tiempo"](https://es.wikipedia.org/wiki/M%C3%A9todo_justo_a_tiempo)... Ideas desarrolladas por Toyota para la gestión del trabajo en sus fábricas y que dieron origen a este método. Ideas que llevadas al campo del desarrollo de software, algunas veces, se resumen **erróneamente** en esto:
 
-\[caption id="" align="aligncenter" width="2355"\][![Kanban Board](images/Simple-kanban-board-.jpg)](https://goo.gl/2vICr5) Pizarra Kanban - Por Jeff Lasovski ([CC](http://creativecommons.org/licenses/by-sa/3.0))\[/caption\]
+\[caption id="" align="aligncenter" width="2355"\][![Kanban Board](/images/Simple-kanban-board-.jpg)](https://goo.gl/2vICr5) Pizarra Kanban - Por Jeff Lasovski ([CC](http://creativecommons.org/licenses/by-sa/3.0))\[/caption\]
 
 Aunque es cierto que el tablero tiene un papel crucial en Kanban, que se pueda visualizar el trabajo, por si solo queda bastante lejos de los sistemas Kanban originales. No podemos hablar de Kanban sin hablar, por ejemplo, del _WIP_, la limitación del trabajo en curso. En palabras del propio David J. Anderson:
 

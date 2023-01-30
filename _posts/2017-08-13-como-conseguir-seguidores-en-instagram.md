@@ -17,7 +17,7 @@ Antes de descubrir los trucos para saber cómo ganar seguidores en Instagram, co
 
  
 
-![Móvil con Instagram](images/como-conseguir-seguidores-en-instagram-1-1.jpg)
+![Móvil con Instagram](/images/como-conseguir-seguidores-en-instagram-1-1.jpg)
 
  
 
@@ -57,7 +57,7 @@ En definitiva, la **estrategia SEO** en Instagram no consiste en enlazar. De la 
 
  
 
-![Consejos Instagram](images/Instagram.png)
+![Consejos Instagram](/images/Instagram.png)
 
  
 
