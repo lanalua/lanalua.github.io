@@ -7,6 +7,7 @@ tags:
   - "apache-cordova"
   - "desarrollo-movil"
   - "javascript"
+  - "author-bcgrillo"
 ---
 
 Este semestre me había propuesto desarrollar una aplicación móvil, algo didáctico, tenía esa asignatura pendiente, y por una u otra razón no había empezado hasta ahora.

@@ -7,6 +7,7 @@ tags:
   - "cms"
   - "diseno-web"
   - "wordpress"
+  - "author-bcgrillo"
 coverImage: "infografia.png"
 ---
 

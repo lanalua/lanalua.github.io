@@ -6,6 +6,7 @@ categories:
 tags: 
   - "listas"
   - "redes-sociales"
+  - "author-mmunoa"
 coverImage: "Errores-Redes-Sociales.png"
 ---
 

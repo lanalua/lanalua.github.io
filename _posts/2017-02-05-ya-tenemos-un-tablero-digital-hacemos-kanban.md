@@ -7,6 +7,7 @@ tags:
   - "agil"
   - "kanban"
   - "lean"
+  - "author-bcgrillo"
 coverImage: "kanban-tablero-digital.jpg"
 ---
 

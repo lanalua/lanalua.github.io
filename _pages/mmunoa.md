@@ -2,6 +2,8 @@
 layout: page
 permalink: /mmunoa
 title: Maialen Muñoa
+redirect_from:
+  - /blog/author/mmunoa/
 ---
 
 ![](/images/profile_m-300x300.jpg)**Periodista** con experiencia en comunicación, creación de contenidos, redacción de notas de prensa, gestión de redes sociales y blogs. Durante los últimos años he gestionado la comunicación y los perfiles digitales de diversas empresas y marcas.
@@ -12,11 +14,14 @@ Me licencié en Periodismo en la Universidad de Navarra, donde aprendí grandes 
 
 Soy de las que piensan que la comunicación es imprescindible y necesaria. ¿De qué sirve existir si no puedes contarlo? Por eso, en mi trabajo apuesto por adaptarme a sus continuos cambios, siempre **descubriendo algo nuevo cada día**. En un mundo cada vez más digital, estoy **siempre conectada**.
 
-[](/blog/author/mmunoa/feed) [](https://twitter.com/maialenmunoa) [](https://linkedin.com/in/maialenmunoa)
+[](https://twitter.com/maialenmunoa) [](https://linkedin.com/in/maialenmunoa)
 
 #### Algunos trabajos destacados:
 
-##### [Mis artículos en Lanalua](/blog/author/mmunoa)
+##### Mis artículos en Lanalua:
+{% for post in site.tags["author-mmunoa"] %}
+- <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+{% endfor %}
 
 ##### Notas de prensa:
 

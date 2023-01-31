@@ -7,6 +7,7 @@ tags:
   - "historia"
   - "ingenieria-del-software"
   - "personas-relevantes"
+  - "author-bcgrillo"
 coverImage: "mujeres-ingenieria-del-software.jpg"
 ---
 

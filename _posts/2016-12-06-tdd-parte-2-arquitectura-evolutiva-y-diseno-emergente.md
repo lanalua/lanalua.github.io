@@ -8,6 +8,7 @@ tags:
   - "arquitectura"
   - "diseno-emergente"
   - "tdd"
+  - "author-bcgrillo"
 ---
 
 #### \-La ventaja de mantenerlo simple-

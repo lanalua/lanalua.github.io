@@ -9,6 +9,7 @@ tags:
   - "desarrollo"
   - "desarrollo-movil"
   - "tecnologia"
+  - "author-bcgrillo"
 coverImage: "chatbot-3589528_1920.jpg"
 ---
 

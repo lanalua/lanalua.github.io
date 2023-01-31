@@ -5,6 +5,7 @@ tags:
   - "comunicacion"
   - "consultoria"
   - "lanalua"
+  - "author-mmunoa"
 coverImage: "agencia-de-comunicacion-digital-madrid-lanalua.jpg"
 ---
 

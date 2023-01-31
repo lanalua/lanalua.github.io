@@ -3,6 +3,7 @@ title: "#WeAreHiring"
 date: "2018-07-29"
 categories: 
   - "comunicacion"
+  - "author-mmunoa"
 coverImage: "hiring-2575036_960_720.jpg"
 ---
 

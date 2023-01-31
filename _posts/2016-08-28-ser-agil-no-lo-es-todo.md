@@ -7,6 +7,7 @@ tags:
   - "agil"
   - "calidad"
   - "lean"
+  - "author-bcgrillo"
 ---
 
 #### \-"Eso te lo hago yo en 10 minutos"-

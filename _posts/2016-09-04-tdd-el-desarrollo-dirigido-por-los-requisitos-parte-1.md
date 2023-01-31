@@ -7,6 +7,7 @@ tags:
   - "calidad"
   - "tdd"
   - "testing"
+  - "author-bcgrillo"
 ---
 
 #### \-Desarrollo dirigido por pruebas _los requisitos_\-

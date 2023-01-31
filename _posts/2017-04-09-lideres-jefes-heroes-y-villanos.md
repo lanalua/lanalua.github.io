@@ -8,6 +8,7 @@ tags:
   - "gestion-de-proyectos"
   - "ingenieria-del-software"
   - "liderazgo"
+  - "author-bcgrillo"
 coverImage: "JefeVsLider.png"
 ---
 

@@ -5,6 +5,7 @@ tags:
   - "agil"
   - "productividad"
   - "traducciones"
+  - "author-bcgrillo"
 coverImage: "Agile-Inception-Deck.jpg"
 ---
 

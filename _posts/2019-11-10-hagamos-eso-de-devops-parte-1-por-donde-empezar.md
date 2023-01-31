@@ -5,6 +5,7 @@ tags:
   - "agil"
   - "desarrollo"
   - "ingenieria-del-software"
+  - "author-bcgrillo"
 coverImage: "Captura-2.png"
 ---
 

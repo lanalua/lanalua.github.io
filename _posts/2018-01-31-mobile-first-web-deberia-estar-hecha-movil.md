@@ -7,6 +7,7 @@ categories:
 tags: 
   - "diseno-web"
   - "seo"
+  - "author-bcgrillo"
 coverImage: "google-mobile.jpg"
 ---
 

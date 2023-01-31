@@ -3,6 +3,7 @@ title: "2018: Muchos motivos para celebrar"
 date: "2018-12-28"
 categories: 
   - "comunicacion"
+  - "author-mmunoa"
 coverImage: "clippings-portada-1.jpg"
 ---
 

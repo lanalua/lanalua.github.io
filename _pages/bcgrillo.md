@@ -2,6 +2,8 @@
 layout: page
 permalink: /bcgrillo
 title: Bruno Camilo Grillo
+redirect_from:
+  - /blog/author/bcgrillo/
 ---
 
 ![Bruno Camilo Grillo](/images/Foto_Perfil_C-2-300x300.jpg)**Ingeniero de Software** con experiencia en programación, análisis, diseño, gestión de proyectos, dirección de equipos de desarrollo y de equipos de soporte. He tenido la oportunidad de ejercer la mayoría de los roles relacionados con el desarrollo y el mantenimiento de aplicaciones Web y de escritorio. Actualmente trabajo como gestor de proyectos software, además, en los últimos años he podido trabajar en la mejora de los procesos de desarrollo en distintos equipos, con especial énfasis en la mejora de la calidad y en la entrega continua.
@@ -14,4 +16,9 @@ Desde 2016 he trabajado como **consultor de desarrollo** en varios proyectos, y 
 
 En cuanto a formación, soy Técnico Superior, y he finalizado el Grado de Ingeniería de Software en la Universidad Politécnica de Madrid, a falta de entregar el proyecto fin de grado. Siempre he compaginado el trabajo con los estudios y es algo que ojalá pueda seguir haciendo siempre.
 
-[](/blog/author/bcgrillo/feed) [](https://twitter.com/bcgrillo) [](https://linkedin.com/in/bcgrillo)
+[](https://twitter.com/bcgrillo) [](https://linkedin.com/in/bcgrillo)
+
+##### Mis artículos en Lanalua:
+{% for post in site.tags["author-bcgrillo"] %}
+- <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+{% endfor %}

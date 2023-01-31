@@ -7,6 +7,7 @@ tags:
   - "arquitectura"
   - "diseno-emergente"
   - "microservicios"
+  - "author-bcgrillo"
 coverImage: "microservicios.jpg"
 ---
 

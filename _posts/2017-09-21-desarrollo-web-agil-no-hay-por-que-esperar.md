@@ -10,6 +10,7 @@ tags:
   - "gestion-de-proyectos"
   - "historia"
   - "ingenieria-del-software"
+  - "author-bcgrillo"
 coverImage: "DesarrolloWebAgil-1.png"
 ---
 

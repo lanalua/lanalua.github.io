@@ -4,6 +4,7 @@ date: "2016-09-11"
 tags: 
   - "agil"
   - "productividad"
+  - "author-bcgrillo"
 coverImage: "Inception-Deck.jpg"
 ---
 

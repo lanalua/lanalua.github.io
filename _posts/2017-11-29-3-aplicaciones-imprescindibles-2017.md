@@ -6,6 +6,7 @@ categories:
 tags: 
   - "listas"
   - "productividad"
+  - "author-bcgrillo"
 coverImage: "Ranking-Aplicaciones-Imprescindibles.png"
 ---
 

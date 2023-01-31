@@ -3,6 +3,7 @@ title: "Hello World (Parte 2)"
 date: "2016-11-27"
 tags: 
   - "equipos"
+  - "author-bcgrillo"
 ---
 
 Tras un breve parón debido a la falta de tiempo, vuelvo por aquí para continuar con este proyecto, aprovechando la ocasión para terminar mi [primera entrada/presentación](https://lanalua.com/blog/hello-world-parte-1).

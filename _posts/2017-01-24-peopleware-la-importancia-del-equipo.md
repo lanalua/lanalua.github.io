@@ -7,6 +7,7 @@ tags:
   - "agil"
   - "equipos"
   - "peopleware"
+  - "author-bcgrillo"
 coverImage: "peopleware-equipo.jpg"
 ---
 

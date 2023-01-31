@@ -6,6 +6,7 @@ categories:
 tags: 
   - "instagram"
   - "redes-sociales"
+  - "author-mmunoa"
 coverImage: "Instagram.png"
 ---
 
