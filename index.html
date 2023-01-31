@@ -2,48 +2,19 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<h1>Fue divertido mientras duró :)</h1>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<div class="entry">
+  <h3>Nuestra historia como Lanalua</h3>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+  <p>Durante un par de años (de 2016 a 2018) pusimos en marcha una idea, un proyecto, Lanalua, unir nuestros talentos para trabajar juntos...
+    La verdad es que fue muy divertido. Pero el tiempo pasa y coloca cada cosa en su sitio. Seguimos trabajando mesa con mesa, pero en proyectos separados.</p>
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
+    <p>Puedes ver más sobre Maialen aquí: <a href="https://maialenmunoa.com">Maialen Muñoa</a></p>
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
+    <p>Puedes ver más sobre Bruno aquí: <a href="https://bcgrillo.github.io">Bruno Grillo</a></p>
 
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
+    <p>Si quieres ver nuestro antiguo Blog de Lanalua, lo hemos dejado todo guardado por aquí: <a href="/blog">Blog (Archivo)</a></p>
+
+    <p>Ah, y nuestra antigua landing page, que nuestro trabajo nos costó (L): <a href="/oldhome">Old Home</a></p>
 </div>
