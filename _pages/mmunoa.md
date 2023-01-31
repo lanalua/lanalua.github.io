@@ -20,7 +20,7 @@ Soy de las que piensan que la comunicación es imprescindible y necesaria. ¿De 
 
 ##### Mis artículos en Lanalua:
 {% for post in site.tags["author-mmunoa"] %}
-- <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+- [{{post.title}}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 ##### Notas de prensa:

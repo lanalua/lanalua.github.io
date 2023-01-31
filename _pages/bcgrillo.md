@@ -20,5 +20,5 @@ En cuanto a formación, soy Técnico Superior, y he finalizado el Grado de Ingen
 
 ##### Mis artículos en Lanalua:
 {% for post in site.tags["author-bcgrillo"] %}
-- <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+- [{{post.title}}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}

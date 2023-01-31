@@ -87,7 +87,6 @@ plugins:
 #  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-date-localization
 
 include: ['_pages']
 
@@ -101,5 +100,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-date_locale: es
