@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "¡Despegamos!"
 date: "2017-06-01"
 tags: 

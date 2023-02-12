@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "7 errores que debes evitar en las redes sociales"
 date: "2017-10-29"
 categories: 

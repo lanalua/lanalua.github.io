@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Link Building – Los cimientos de una buena estrategia SEO"
 date: "2017-05-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "TDD (Parte 2) - Arquitectura evolutiva y diseño emergente"
 date: "2016-12-06"
 categories: 

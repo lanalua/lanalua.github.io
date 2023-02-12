@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ya tenemos un tablero digital. ¿Hacemos Kanban?"
 date: "2017-02-05"
 categories: 

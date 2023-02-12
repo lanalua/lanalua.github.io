@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Peopleware - La importancia del equipo"
 date: "2017-01-24"
 categories: 

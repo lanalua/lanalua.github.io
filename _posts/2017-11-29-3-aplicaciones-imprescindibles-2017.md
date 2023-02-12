@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "3 aplicaciones imprescindibles en 2017"
 date: "2017-11-29"
 categories: 

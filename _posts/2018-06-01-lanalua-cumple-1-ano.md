@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "¡Lanalua cumple 1 año!"
 date: "2018-06-01"
 categories: 

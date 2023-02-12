@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "En 2020 la mitad de las empresas utilizarán ChatBots"
 date: "2018-08-28"
 categories: 

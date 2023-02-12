@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Mujeres que han hecho grande la Ingeniería del Software"
 date: "2017-03-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Líderes, jefes, héroes y villanos"
 date: "2017-04-09"
 categories: 

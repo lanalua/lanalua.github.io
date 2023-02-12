@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hello World (Parte 1)"
 date: "2016-08-28"
 tags: 

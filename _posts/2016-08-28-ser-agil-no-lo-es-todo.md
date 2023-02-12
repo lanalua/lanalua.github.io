@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ser ágil no lo es todo"
 date: "2016-08-28"
 categories: 

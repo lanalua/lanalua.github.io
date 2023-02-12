@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Microservicios - Algo más que muchos servicios"
 date: "2016-12-27"
 categories: 

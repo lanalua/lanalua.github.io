@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "#WeAreHiring"
 date: "2018-07-29"
 categories: 

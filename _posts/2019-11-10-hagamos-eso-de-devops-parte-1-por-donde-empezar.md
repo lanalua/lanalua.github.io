@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hagamos eso de \"DevOps\" (Parte 1) - Por dónde empezar"
 date: "2019-11-10"
 tags: 

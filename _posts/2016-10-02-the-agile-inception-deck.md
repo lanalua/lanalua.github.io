@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Agile Inception Deck"
 date: "2016-10-02"
 tags: 

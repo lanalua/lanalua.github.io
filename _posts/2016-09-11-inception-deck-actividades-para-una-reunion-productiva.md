@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Inception Deck - Actividades para una reunión productiva"
 date: "2016-09-11"
 tags: 

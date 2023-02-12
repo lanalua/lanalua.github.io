@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "TDD (Parte 1) - El desarrollo dirigido por los requisitos"
 date: "2016-09-04"
 categories: 

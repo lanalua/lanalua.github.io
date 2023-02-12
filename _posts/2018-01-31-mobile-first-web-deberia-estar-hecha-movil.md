@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Mobile First: Por qué tu web debería estar hecha para el móvil"
 date: "2018-01-31"
 categories: 

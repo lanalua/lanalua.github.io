@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Mujeres que han hecho grande el Periodismo"
 date: "2018-03-08"
 categories: 

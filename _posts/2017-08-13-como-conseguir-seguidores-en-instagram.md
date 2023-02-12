@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Cómo conseguir seguidores en Instagram de forma orgánica"
 date: "2017-08-13"
 categories: 

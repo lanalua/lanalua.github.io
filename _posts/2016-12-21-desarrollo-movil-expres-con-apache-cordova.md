@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Desarrollo móvil \"exprés\" con Apache Cordova"
 date: "2016-12-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "¿Qué es un CMS y qué pinta eso en mi web?"
 date: "2017-07-09"
 categories: 

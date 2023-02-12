@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Desarrollo Web Ágil - No hay por qué esperar"
 date: "2017-09-21"
 categories: 
